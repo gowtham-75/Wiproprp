@@ -1,7 +1,9 @@
 # Wipro-prp
 
-# Wipro prp questions.
+# Wipro prp questions and Answer.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Jumbled words
+---------------
 import java.util.Arrays;
 import java.util.Scanner;
 public class Oct {
